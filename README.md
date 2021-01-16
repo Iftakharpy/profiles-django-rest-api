@@ -1,3 +1,3 @@
 # profiles django rest api
 
-This repos is a project learn django rest api.
+The purpose of this repo is to learn django rest api.
